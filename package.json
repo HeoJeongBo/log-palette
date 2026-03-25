@@ -14,8 +14,7 @@
     }
   },
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "scripts": {
     "build": "rolldown -c rolldown.config.ts && tsc --emitDeclarationOnly",

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github-personal/HeoJeongBo/log-palette/compare/v0.2.0...v0.2.1) (2026-03-25)
+
+
+### Features
+
+* add README.md ([eff5b55](https://github-personal/HeoJeongBo/log-palette/commit/eff5b55ee132b3e92c4e8f49d9a0e04289781265))
+
 # 0.2.0 (2026-03-25)
 
 

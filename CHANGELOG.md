@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github-personal/HeoJeongBo/log-palette/compare/v0.2.1...v0.2.2) (2026-03-25)
+
+
+### Bug Fixes
+
+* remove src in build ([a3c879a](https://github-personal/HeoJeongBo/log-palette/commit/a3c879aad562e6ba9eae4d28ba4e4bd2bc9ddd63))
+
 ## [0.2.1](https://github-personal/HeoJeongBo/log-palette/compare/v0.2.0...v0.2.1) (2026-03-25)
 
 
